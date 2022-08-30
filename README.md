@@ -16,8 +16,8 @@ This is a Hosting Website landing page, I have built it from scratch using HTML 
 
 ### Here's the Live Deployed Website:
 
-[Live Link !](https://inquisitive-maamoul-c49a88.netlify.app)
+[Live Link !](https://magnificent-donut-7e2e8d.netlify.app/)
 
-![Web Site Image](./Assets/Hosting%20Landing%20Page.png)
+![Web Site Image](./Assets/screenshot.png)
 
 #### This project took around 9 hours to complete.
