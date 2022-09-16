@@ -2,7 +2,7 @@ Hi This is Ravi K R, full stack web developer.
 
 # Project Name : 14. Creative-Agency-page ![](https://img.shields.io/badge/Project-14-green)
 
-This is a Hosting Website landing page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox. specifically this project helped me to expore new things like Box Shadow, Hover Effect, and cards gradient images, transform property etc . 
+This is a Creative-Agency-page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox. specifically this project helped me to expore new things like Box Shadow, Hover Effect, and cards gradient images, transform property etc . 
 
 </br>
 
